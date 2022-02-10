@@ -1,0 +1,18 @@
+.App {
+    background: #6D9AC4;
+}
+
+
+.LoginStack {
+    border-radius: 25px;
+    background: white;
+    padding: 50px;
+}
+
+.LoginContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: none;
+	height: 80%;
+}
