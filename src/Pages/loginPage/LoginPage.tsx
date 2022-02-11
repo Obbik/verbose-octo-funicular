@@ -1,11 +1,12 @@
-import React from "react"
+import React, { useContext } from "react"
 import "./loginPage.css"
 import { TextField, Button, Stack } from "@mui/material"
 import ValidateLogin from "./ValidateLogin"
-import useLogin from "../Utils/useLogin"
+import { UserContext} from "../../Context/UserContext"
 
 const LoginPage: React.FC = () => {
-	const { handleChange, handleSubmit } = ValidateLogin()
+	const { login, logout} = useContext(UserContext)
+	const { handleChange, handleSubmit } = ValidateLogin({login, logout})
 	return (
 		<div className="LoginContainer">
 			<form onSubmit={handleSubmit}>

@@ -1,8 +1,6 @@
-import { useState, useEffect, useContext } from "react"
-import { UserContext } from "../Context/UserContext"
+import { useState, useEffect } from "react"
 
 const useLogin = () => {
-	const x = useContext(UserContext)
 	const [isLogged, setisLogged] = useState<boolean | null>(false)
 
 	const login = () => {
@@ -11,7 +9,7 @@ const useLogin = () => {
 	}
 
 	const logout = () => {
-		localStorage.setItem("Logged", "false")
+		localStorage.removeItem("Logged")
 		return setisLogged(false)
 	}
 

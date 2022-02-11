@@ -1,13 +1,11 @@
 import { useState } from "react"
-import useLogin from "../Utils/useLogin"
 
 interface formData {
 	login: string | undefined
 	password: string | undefined
 }
 
-const ValidateLogin = () => {
-	const { login } = useLogin()
+const ValidateLogin = ({login, logout}: any ) => {
 	const [formData, setFormData] = useState<formData>({
 		login: "",
 		password: "",
