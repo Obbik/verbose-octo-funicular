@@ -5,12 +5,12 @@ const useLogin = () => {
 
 	const login = () => {
 		localStorage.setItem("Logged", "true")
-		return setisLogged(true)
+		setisLogged(true)
 	}
 
 	const logout = () => {
 		localStorage.removeItem("Logged")
-		return setisLogged(false)
+		setisLogged(false)
 	}
 
 	useEffect(() => {

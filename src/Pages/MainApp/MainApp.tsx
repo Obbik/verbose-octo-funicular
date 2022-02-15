@@ -1,13 +1,20 @@
-import React from 'react'
-import Header from '../../Components/Header/Header'
-type Props = {}
+import MainMap from "../../Components/MainMap/MainMap"
+import Sidebar from "../../Components/Sidebar/Sidebar"
 
-const MainApp = (props: Props) => {
-  return (
-    <>
-    <Header />
-    </>
-  )
+import useFetchMap from "./useFetchMap"
+import { Stack } from "@mui/material"
+
+
+const MainApp = () => {
+  const { location } = useFetchMap()
+	return (
+		<>
+			<Stack spacing={2} direction="row" justifyContent="center" height={"100%"}  >
+				<MainMap location={location}/>
+				<Sidebar location={location}/>
+			</Stack>
+		</>
+	)
 }
 
 export default MainApp

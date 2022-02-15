@@ -1,0 +1,40 @@
+{
+	"locationData": [
+		{
+			"location": {
+				"lat": 37.773972,
+				"lng": -122.431297
+			},
+			"name": "Pier 39",
+			"image": "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e50744075277bd095e5b5_340.jpg",
+			"description": "The most visited pier on the west coast of the United States"
+		},
+		{
+			"location": {
+				"lat": 37.78825,
+				"lng": -122.4324
+			},
+			"name": "Golden Gate Bridge",
+			"image": "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e50744075277bd095e5b5_340.jpg",
+			"description": "The most visited bridge on the west coast of the United States"
+		},
+		{
+			"location": {
+				"lat": 37.8197,
+				"lng": -122.4786
+			},
+			"name": "Alcatraz Island",
+			"image": "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e50744075277bd095e5b5_340.jpg",
+			"description": "The most visited prison on the west coast of the United States"
+		},
+		{
+			"location": {
+				"lat": 37.8197,
+				"lng": -122.4786
+			},
+			"name": "Alcatraz Island",
+			"image": "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e50744075277bd095e5b5_340.jpg",
+			"description": "The most visited prison on the west coast of the United States"
+		}
+	]
+}
