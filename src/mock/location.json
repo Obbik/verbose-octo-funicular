@@ -1,40 +1,64 @@
 {
 	"locationData": [
 		{
-			"location": {
-				"lat": 37.773972,
-				"lng": -122.431297
-			},
-			"name": "Pier 39",
-			"image": "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e50744075277bd095e5b5_340.jpg",
-			"description": "The most visited pier on the west coast of the United States"
+			"name": "Starcups",
+			"lat": 43.6425671,
+			"lng": -79.3870568,
+			"city": "Toronto",
+			"postalCode": "M5G 2V6",
+			"phone": "(416) 123-4567",
+			"description": "Starbucks Coffee is a great place to start your day. We have delicious breakfast and  coffees to choose from. We also have some of the best bagels in town.",
+			"image": "https://scontent-frx5-2.xx.fbcdn.net/v/t1.18169-9/22049814_499726977057054_3913895556032150998_n.png?_nc_cat=109&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=G6Jpc6IoRDQAX8JoePu&_nc_ht=scontent-frx5-2.xx&oh=00_AT_8D_MFS_-1AoupZLXXpQU7_bgvdzjJE4p4GjMQs5kv3A&oe=62312E2D"
 		},
 		{
-			"location": {
-				"lat": 37.78825,
-				"lng": -122.4324
-			},
-			"name": "Golden Gate Bridge",
-			"image": "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e50744075277bd095e5b5_340.jpg",
-			"description": "The most visited bridge on the west coast of the United States"
+			"name": "Dunkin Donuts",
+			"lat": 43.6425671,
+			"lng": -79.3870568,
+			"city": "Toronto",
+			"postalCode": "M5G 2V6",
+			"phone": "(416) 123-4567",
+			"description": "Dunkin Donuts is a great place to start your day. We have delicious breakfast and  coffees to choose from. We also have some of the best bagels in town.",
+			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Dunkin%27_Donuts_logo.svg/1920px-Dunkin%27_Donuts_logo.svg.png"
 		},
 		{
-			"location": {
-				"lat": 37.8197,
-				"lng": -122.4786
-			},
-			"name": "Alcatraz Island",
-			"image": "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e50744075277bd095e5b5_340.jpg",
-			"description": "The most visited prison on the west coast of the United States"
+			"name": "McDonalds",
+			"lat": 43.6425671,
+			"lng": -79.3870568,
+			"city": "Toronto",
+			"postalCode": "M5G 2V6",
+			"phone": "(416) 123-4567",
+			"description": "McDonalds is a great place to start your day. We have delicious breakfast and  coffees to choose from. We also have some of the best bagels in town.",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png"
 		},
 		{
-			"location": {
-				"lat": 37.8197,
-				"lng": -122.4786
-			},
-			"name": "Alcatraz Island",
-			"image": "https://pixabay.com/get/57e8d0424a5bae14f1dc84609620367d1c3ed9e04e50744075277bd095e5b5_340.jpg",
-			"description": "The most visited prison on the west coast of the United States"
+			"name": "Burger King",
+			"lat": 43.6425671,
+			"lng": -79.3870568,
+			"city": "Toronto",
+			"postalCode": "M5G 2V6",
+			"phone": "(416) 123-4567",
+			"description": "Burger King is a great place to start your day. We have delicious breakfast and  coffees to choose from. We also have some of the best bagels in town.",
+			"image": "https://www.wolapark.pl/-/media/images/b2c/poland/shared/shop-logo/pl_logo_burgerking.ashx"
+		},
+		{
+			"name": "Tim Hortons",
+			"lat": 43.6425671,
+			"lng": -79.3870568,
+			"city": "Toronto",
+			"postalCode": "M5G 2V6",
+			"phone": "(416) 123-4567",
+			"description": "Tim Hortons is a great place to start your day. We have delicious breakfast and  coffees to choose from. We also have some of the best bagels in town.",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Tim_Hortons_logo.svg/2560px-Tim_Hortons_logo.svg.png"
+		},
+		{
+			"name": "Pizza Hut",
+			"lat": 43.6425671,
+			"lng": -79.3870568,
+			"city": "Toronto",
+			"postalCode": "M5G 2V6",
+			"phone": "(416) 123-4567",
+			"description": "Pizza Hut is a great place to start your day. We have delicious breakfast and  coffees to choose from. We also have some of the best bagels in town.",
+			"image": "https://www.alejabielany.pl/-/media/images/b2c/poland/shared/shop-logo/pl_logo_pizzahut.ashx?h=433&iar=0&mw=650&w=650&hash=B6BD928844FA5B680C1FB63A68BE50A3"
 		}
 	]
 }
